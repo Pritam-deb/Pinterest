@@ -6,3 +6,4 @@ export { default as PinDetail } from "./PinDetail";
 export { default as Search } from "./Search";
 export { default as CreatePin } from "./CreatePin";
 export { default as UserProfile } from "./userProfile";
+export { default as Pin } from "./Pin";
