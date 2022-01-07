@@ -3,7 +3,7 @@ import { NavLink, Link } from "react-router-dom";
 import { RiHomeFill } from "react-icons/ri";
 import { IoIosArrowsForward } from "react-icons/io";
 
-import logo from "../assets/logo.png";
+import logo from "../assets/pinterest-logo.png";
 import { categories } from "../utils/data";
 const isNotActiveStyle =
   "flex items-center px-5 gap-3 text-grey-500 hover:text-black transition-all duration-200 ease-in-out capitalize";

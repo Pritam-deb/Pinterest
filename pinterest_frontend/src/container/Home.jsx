@@ -6,7 +6,7 @@ import { AiFillCloseCircle } from "react-icons/ai";
 import { userQuery } from "../utils/data";
 import { Sidebar, UserProfile } from "../components";
 import { client } from "../client";
-import logo from "../assets/logo.png";
+import logo from "../assets/pinterest-logo.png";
 import Pins from "./Pins";
 import { fetchUser } from "../utils/fetchUser";
 
