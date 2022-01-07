@@ -76,7 +76,7 @@ const CreatePin = ({ user }) => {
 
       setTimeout(() => {
         setFields(false);
-      }, 2000);
+      }, 5000);
     }
   };
 
